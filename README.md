@@ -1,14 +1,14 @@
-Team ID:NM2025TMID25140
+Team ID : NM2025TMID25140
 
-Team Members:4
+Team Size : 4
 
-Team lead: 
-SAKTHI PRIYA R
+Team Leader : SAKTHI PRIYA 
 
-Team members:
-RAHILA FARATH S,
-REHANA A,  
-SHAMLA NASRIN M 
+Team member : RAHILA FARATH S
+
+Team member : REHANA A
+
+Team member : SHAMLA NASRIN M
               
 Demo video link:
 https://drive.google.com/drive/folders/1x_zBGDXWiarFTadrtoOkoP875sks6NzH# Crm-application-for-jewellery-management-
