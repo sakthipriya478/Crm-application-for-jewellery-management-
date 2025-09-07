@@ -1,5 +1,7 @@
 Team ID : NM2025TMID25140
-Team lead:  SAKTHI PRIYA R
+
+Team lead: SAKTHI PRIYA R
+
 Team members: RAHILA FARATH S,REHANA A ,SHAMLA NASRIN M 
               
 Demo video link:
