@@ -4,8 +4,8 @@ Team lead:
 SAKTHI PRIYA R
 
 Team members:
-RAHILA FARATH S
-REHANA A  
+RAHILA FARATH S,
+REHANA A,  
 SHAMLA NASRIN M 
               
 Demo video link:
